@@ -1,0 +1,31 @@
+.form-control{
+    margin: 0.5rem 0;
+}
+
+.form-control label{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.form-control label{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    /* font: inherit; */
+    line-height: 1.5rem;
+    padding: 0 0.25rem;
+}
+.form-control input{
+    width: 77%;
+    font-size: 1.1rem;
+    height: 18px;
+    padding: 0 6px ;
+    margin-left: 36px;
+}
+.form-control input:focus{
+    outline: none;
+    background: #fad0ec;
+    border-color: #8b005d;
+}
